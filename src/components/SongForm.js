@@ -35,7 +35,7 @@ const SongForm = ({ handleSearch }) => {
           placeholder="Nombre del Intérprete"
           onChange={handleChange}
           value={form.artist}
-          autocomplete="off"
+          autoComplete="off"
         />
         <input
           type="text"
@@ -43,7 +43,7 @@ const SongForm = ({ handleSearch }) => {
           placeholder="Nombre de la Canción"
           onChange={handleChange}
           value={form.song}
-          autocomplete="off"
+          autoComplete="off"
         />
         <input type="submit" value="Enviar" />
       </form>

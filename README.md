@@ -10,3 +10,8 @@ Se crearon componentes para presentar y se copiaron otros componentes de otros p
 ![imagenText](<./src/gifts/ezgif.com-gif-maker (1).gif>)
 ![imagenText](<./src/gifts/ezgif.com-gif-maker (2).gif>)
 ![imagenText](<./src/gifts/ezgif.com-gif-maker (3).gif>)
+
+### `Creacion de Portales`
+
+Creamos un portal mas, diferente al que viene por defecto que es el root
+![imagenText](./src/gifts/portal.jpeg)
